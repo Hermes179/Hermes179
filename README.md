@@ -1,5 +1,3 @@
-
-<img style="padding:50px 0px" align ="right" src="https://media2.giphy.com/media/j3i6MybhqAixmpQg6I/giphy.gif">
 <h1 align="center">Hello!👋</h1>
 
 - 🔭 I’m currently working on my Web Dev skills
