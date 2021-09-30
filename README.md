@@ -33,7 +33,7 @@
 
 ## 📊 My stats
 
-<table>
+<table align="center">
  <tbody>
  <tr>
   <td align="center">
@@ -46,7 +46,7 @@
   </tbody>
 </table>
 
-<table>
+<table align="center">
  <tr>
   <td align="center"> 
    
