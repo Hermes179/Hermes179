@@ -1,9 +1,8 @@
-<img align="right" style="margin-top:200px" src ="https://media4.giphy.com/media/sp685iuIEGuys/giphy.gif">
+<img align="right" style="margin-top:50px" src ="https://media4.giphy.com/media/sp685iuIEGuys/giphy.gif">
 <h1 align="center">Hello! I am Neel 👋</h1>
 
 - 🔭 I’m currently working on my Web Dev skills
 - 🌱 I’m currently learning MongoDB, React, Node.js
-- 💬 You can ask me about JavaScript, MERN Stack, and CSS
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I can solve a Rubik's cube in under 2 minutes!!!
 
