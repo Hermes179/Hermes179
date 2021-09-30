@@ -19,9 +19,15 @@
 ![](https://img.shields.io/badge/editor-Intellij-blue)
 ![](https://img.shields.io/badge/tool-Figma-blue)
 <br>
-
+<table align="center" width="100%" border="0"> 
+  <tr>
+  <td width="50%">
+      
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/7a2vlze7gdxm16b285mltsk99)
-
+  
+    </td>
+  </tr>
+</table>
 <br>
 
 ## 📊 My stats
