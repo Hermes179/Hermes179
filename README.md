@@ -25,7 +25,7 @@
       
 &nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/7a2vlze7gdxm16b285mltsk99)
   
-    </td>
+  </td>
   </tr>
 </table>
 <br>
