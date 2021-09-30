@@ -49,9 +49,11 @@
 <table>
  <tr>
   <td align="center"> 
-    [![Profile views](https://komarev.com/ghpvc/?username=Hermes179&color=brightgreen)](https://github.com/antonkomarev/github-profile-views-counter)  
-    [![Repos Badge](https://badges.pufler.dev/repos/Hermes179)](https://badges.pufler.dev) 
-    [![Commits Badge](https://badges.pufler.dev/commits/monthly/Hermes179)](https://badges.pufler.dev)
+   
+[![Profile views](https://komarev.com/ghpvc/?username=Hermes179&color=brightgreen)](https://github.com/antonkomarev/github-profile-views-counter)
+[![Repos Badge](https://badges.pufler.dev/repos/Hermes179)](https://badges.pufler.dev) 
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/Hermes179)](https://badges.pufler.dev)
+   
    </td>
  </tr>
 </table>
