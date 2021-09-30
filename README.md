@@ -1,6 +1,6 @@
-<img align="right" margin-top:"50px" src ="https://media4.giphy.com/media/sp685iuIEGuys/giphy.gif">
+<img align="right" style="padding-top : 50px " src ="https://media4.giphy.com/media/sp685iuIEGuys/giphy.gif">
 <h1 align="center">Hello! I am Neel 👋</h1>
-
+<br>
 - 🔭 I’m currently working on my Web Dev skills
 - 🌱 I’m currently learning MongoDB, React, Node.js
 - 😄 Pronouns: He/Him
