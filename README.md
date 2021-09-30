@@ -37,6 +37,8 @@
  <tr>
    <td>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Hermes179&show_icons=true&include_all_commits=true&theme=discord_old_blurple&hide_border=true" alt="Neel's github stats" /></a>
+   </td>
+   <td>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hermes179&layout=compact&theme=discord_old_blurple&hide_border=true" /></a> 
    </td>
   </tr>
