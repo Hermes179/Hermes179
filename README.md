@@ -1,4 +1,4 @@
-<h1 align="center">Hello!👋</h1>
+<h1 align="center">Hello! I am Neel 👋</h1>
 
 - 🔭 I’m currently working on my Web Dev skills
 - 🌱 I’m currently learning MongoDB, React, Node.js
