@@ -20,7 +20,9 @@
 ![](https://img.shields.io/badge/tool-Figma-blue)
 <br>
 
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/7a2vlze7gdxm16b285mltsk99)
 
+<br>
 
 ## 📊 My stats
 
