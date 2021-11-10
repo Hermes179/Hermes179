@@ -55,3 +55,15 @@
   </tbody>
 </table>
 
+<a href="https://codepen.io/hermes179">
+  <img align="right" alt="Neel Devani | Codepen" src="https://raw.githubusercontent.com/Hermes179/Hermes179/master/assets/codepen.png" />
+</a>
+<a href="https://www.linkedin.com/in/neel-devani-5523b9176/">
+  <img align="right" alt="Neel Devani | LinkedIn" src="https://raw.githubusercontent.com/Hermes179/Hermes179/master/assets/linkedin.png" />
+</a>
+<a href="https://twitter.com/Hermes_179">
+  <img align="right" alt="Neel Devani | twitter" src="https://raw.githubusercontent.com/Hermes179/Hermes179/master/assets/twitter.png" />
+</a>
+<a href="https://www.hackerrank.com/neeldevani14">
+  <img align="right" alt="Neel Devani | hackerrank" width="21px" src="https://raw.githubusercontent.com/Hermes179/Hermes179/master/assets/Hackerrank.png" />
+</a>
