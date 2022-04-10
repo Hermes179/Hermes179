@@ -1,4 +1,4 @@
-<img align="right" src ="https://media.giphy.com/media/O0sLyqXIUEwMnsAhUM/giphy-downsized.gif">
+<img align="right" src ="https://media.giphy.com/media/1r8YvFB47nAsAy36mp/giphy.gif">
 <h1 align="center">Hello! I am Neel 👋</h1>
 
 - 🔭 I’m currently working on my Web Dev skills
