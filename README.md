@@ -8,6 +8,7 @@
 
 ## ⚒️ Technologies & Tools
 ![](https://img.shields.io/badge/code-C/C++-brightgreen) 
+![](https://img.shields.io/badge/code-C#-brightgreen) 
 ![](https://img.shields.io/badge/code-Java-brightgreen) 
 ![](https://img.shields.io/badge/code-Javascript-brightgreen) 
 ![](https://img.shields.io/badge/code-Python-brightgreen)  
