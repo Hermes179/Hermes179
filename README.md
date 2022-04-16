@@ -62,7 +62,7 @@
 <a href="https://codepen.io/hermes179">
   <img align="right" alt="Neel Devani | Codepen" src="https://raw.githubusercontent.com/Hermes179/Hermes179/master/assets/codepen.png" />
 </a>
-<a href="https://www.frontendmentor.io/profile/Gatsby1925">
+<a href="https://www.frontendmentor.io/profile/Hermes179">
   <img align="right" alt="Neel Devani | frontendMentor.io" width="24px" src="https://raw.githubusercontent.com/Hermes179/Hermes179/master/assets/favicon-32x32.png" />
 </a>
 <a href="https://devchallenges.io/portfolio/Hermes179">
