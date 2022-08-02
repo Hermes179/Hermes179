@@ -68,6 +68,9 @@
 <a href="https://devchallenges.io/portfolio/Hermes179">
   <img align="right" alt="Neel Devani | devchallenges.io" width="24px" src="https://raw.githubusercontent.com/Hermes179/Hermes179/master/assets/devchallenges.png" />
 </a>
+<a href="https://stackoverflow.com/users/11484217/hermes-179">
+  <img align="right" alt="Neel Devani | Stack Overflow" width="24px" src="https://raw.githubusercontent.com/Hermes179/Hermes179/master/assets/stack-overflow.png" />
+</a>
 <a href="https://www.codewars.com/users/Hermes179">
   <img align="right" alt="Neel Devani | CodeWars" width="24px" src="https://raw.githubusercontent.com/Hermes179/Hermes179/master/assets/CodeWars.svg" />
 </a>
